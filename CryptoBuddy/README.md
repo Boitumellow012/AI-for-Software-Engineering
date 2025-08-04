@@ -55,6 +55,7 @@ crypto_db = {
         "sustainability_score": 8/10
     }
 }
+```
 
 ## How It Works
 
